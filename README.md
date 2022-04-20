@@ -1,4 +1,7 @@
-# SOZ Launcher
+<h2 align="center">
+SOZ Launcher
+</h2>
+
 ![image](https://user-images.githubusercontent.com/104008465/164180040-cca5da03-de50-436b-aca7-990928f6c3f5.png)
 
 __À quoi sert-il hormis se connecter ?__
