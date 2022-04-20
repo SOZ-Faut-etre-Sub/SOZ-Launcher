@@ -12,4 +12,4 @@ __À quoi sert-il hormis se connecter ?__
 
 > Il affiche toutes les News RP récentes, te permettant d'y naviguer plus aisément que sur un Discord.
 
-> À terme, et probablement pour la sortie de SOZ, il te permettra d'envoyer des SMS en jeu, donc RP exclusivement, à tes différents contacts. Si nous y voyons du HRP, celui-ci est passible d'un ban permanent
+> À terme, et probablement pour la sortie de SOZ, il te permettra d'envoyer des SMS en jeu, donc RP exclusivement, à tes différents contacts. Si nous y voyons du HRP, celui-ci est passible d'un ban permanent.
