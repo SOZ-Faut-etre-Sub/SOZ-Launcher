@@ -2,7 +2,7 @@
 SOZ Launcher
 </h2>
 
-![image](https://user-images.githubusercontent.com/104008465/164180040-cca5da03-de50-436b-aca7-990928f6c3f5.png)
+![LEAK DU LAUNCHER OMG ](https://user-images.githubusercontent.com/104008465/166158578-cb47e3fa-6a00-4f23-bbf6-1435287e2023.png)
 
 __À quoi sert-il hormis se connecter ?__
 
